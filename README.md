@@ -1,11 +1,11 @@
-<h3>
+<h4>
   Welcome!
   <img width="30" height="30" alt="0a4c59b0d630263259beaa22c01c0f0a-removebg-preview" src="https://github.com/user-attachments/assets/155ea2f3-105d-48e7-ba61-35547beb1ac1" />
-</h3>
+</h4>
 
 I'm Gustavo Menezes, a Computer Networks student at FATEC Suzano interested in software development and networking.
 
-Currently Learning
+<h4>Currently Learning</h4>
 
 <img src="https://skillicons.dev/icons?i=python,html,css,js,c,mysql,git" />
 
