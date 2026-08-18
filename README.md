@@ -1,5 +1,6 @@
 Welcome! <p>
-  <img src="https://31.media.tumblr.com/4e4b1a176d4fcd1219af8ae05fee9114/tumblr_mze915NS571rvbv2ko1_500.gif" width="50">
+  <img width="188" height="128" alt="image" src="https://github.com/user-attachments/assets/32fdc949-a385-4e4a-a4a4-ac93358ae30b" />
+
 </p>
 
 Im Gustavo Menezes, an computer science student and some kind of
