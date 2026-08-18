@@ -1,5 +1,5 @@
 Welcome! <p>
-  <img width="188" height="128" alt="image" src="https://github.com/user-attachments/assets/32fdc949-a385-4e4a-a4a4-ac93358ae30b" />
+  <img width="188" height="128" alt="image" src="https://github.com/user-attachments/assets/32fdc949-a385-4e4a-a4a4-ac93358ae30b.gif" />
 
 </p>
 
