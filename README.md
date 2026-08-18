@@ -5,6 +5,8 @@
 
 I'm Gustavo Menezes, a Computer Networks student at FATEC Suzano interested in software development and networking.
 
+Currently Learning
+
 <img src="https://skillicons.dev/icons?i=python,html,css,js,c,mysql,git" />
 
 
