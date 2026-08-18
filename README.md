@@ -2,13 +2,33 @@
   Welcome!
   <img width="30" height="30" alt="0a4c59b0d630263259beaa22c01c0f0a-removebg-preview" src="https://github.com/user-attachments/assets/155ea2f3-105d-48e7-ba61-35547beb1ac1" />
 </h2>
+### About Me
 
-I'm Gustavo Menezes, an Brazilian Computer Networks student at FATEC Suzano interested in software development and networking.
+- Computer Networks student at FATEC Suzano
+- Interested in software development and networking
+- Currently building projects with Python and web technologies
+- Always learning new technologies
+
+
 
 <h2>Currently Learning</h2>
 
 <img src="https://skillicons.dev/icons?i=python,html,css,js,c,mysql,git" />
+- Python
+- C
+- JavaScript
+- Computer Networks
+- Git & GitHub
 
+### Certifications
+
+- PROA Front-End Development
+- Cambridge English B1/B2
+- NovoTec - Internet Computing
+  
+### Goals
+
+Looking for opportunities to gain practical experience in software development, networking, and IT.
 
 <!--
 **Menezess4/Menezess4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
