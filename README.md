@@ -1,6 +1,6 @@
 <h3>
   Welcome!
-  <img src="https://i.pinimg.com/736x/0a/4c/59/0a4c59b0d630263259beaa22c01c0f0a.jpg" width="28" alt="icon">
+  <img width="500" height="500" alt="0a4c59b0d630263259beaa22c01c0f0a-removebg-preview" src="https://github.com/user-attachments/assets/155ea2f3-105d-48e7-ba61-35547beb1ac1" />
 </h3>
 
 I'm Gustavo Menezes, a Computer Networks student at FATEC Suzano interested in software development and networking.
