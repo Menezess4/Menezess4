@@ -1,5 +1,5 @@
-Welcome! <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350">
+Welcome! <p>
+  <img src="https://31.media.tumblr.com/4e4b1a176d4fcd1219af8ae05fee9114/tumblr_mze915NS571rvbv2ko1_500.gif" width="350">
 </p>
 
 Im Gustavo Menezes, an computer science student and some kind of
