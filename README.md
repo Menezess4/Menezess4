@@ -5,6 +5,8 @@
 
 I'm Gustavo Menezes, a Computer Networks student at FATEC Suzano interested in software development and networking.
 
+<img src="https://skillicons.dev/icons?i=python,html,css,js,c,mysql,git" />
+
 
 <!--
 **Menezess4/Menezess4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
