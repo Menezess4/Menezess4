@@ -1,9 +1,13 @@
-Welcome! <p>
-<img width="280" height="200" alt="image" src="https://github.com/user-attachments/assets/ac859915-8482-42a4-a0bf-da0b9b75c420" />
+Welcome!
 
+<p>
+<img width="280" height="200" alt="image" src="https://github.com/user-attachments/assets/ac859915-8482-42a4-a0bf-da0b9b75c420" />
 </p>
 
-Im Gustavo Menezes, an computer science student and some kind of
+I'm Gustavo Menezes, a Computer Networks student at FATEC Suzano with an interest in software development, networking, and technology.
+
+Currently learning Python, Flask, web development, and network infrastructure.
+
 
 
 <!--
