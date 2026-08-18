@@ -1,5 +1,5 @@
 Welcome! <p>
-  <img width="188" height="128" src="https://tenor.com/pt-BR/view/hello-wave-waving-waving-meme-hewo-gif-2687309162503277218" />
+  <img width="188" height="128" src="https://tenor.com/pt-BR/view/hello-wave-waving-waving-meme-hewo-gif-2687309162503277218.gif" />
 
 </p>
 
