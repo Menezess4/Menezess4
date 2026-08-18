@@ -1,13 +1,9 @@
-Welcome!
+<h3>
+  Welcome!
+  <img src="https://i.pinimg.com/736x/f0/b0/0b/f0b00b2e456a637bce57e0dba2260c72.jpg" width="28" alt="icon">
+</h3>
 
-<p>
-<img width="280" height="200" alt="image" src="https://github.com/user-attachments/assets/ac859915-8482-42a4-a0bf-da0b9b75c420" />
-</p>
-
-I'm Gustavo Menezes, a Computer Networks student at FATEC Suzano with an interest in software development, networking, and technology.
-
-Currently learning Python, Flask, web development, and network infrastructure.
-
+I'm Gustavo Menezes, a Computer Networks student at FATEC Suzano interested in software development and networking.
 
 
 <!--
