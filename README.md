@@ -13,7 +13,7 @@
 
 <h2>Currently Learning</h2>
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,c,mysql,git" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,git" />
 - Python
 - html
 - css
