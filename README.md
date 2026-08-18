@@ -1,4 +1,9 @@
-## Hi there 👋
+Welcome! <p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350">
+</p>
+
+Im Gustavo Menezes, an computer science student and some kind of
+
 
 <!--
 **Menezess4/Menezess4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
