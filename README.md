@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/lang-English-blue?style=for-the-badge"/>
+  </a>
+  <a href="README.pt-BR.md">
+    <img src="https://img.shields.io/badge/lang-Português-green?style=for-the-badge" />
+  </a>
+</p>
+
 <h1>
   Welcome!
   <img width="30" height="30" alt="0a4c59b0d630263259beaa22c01c0f0a-removebg-preview" src="https://github.com/user-attachments/assets/155ea2f3-105d-48e7-ba61-35547beb1ac1" />
