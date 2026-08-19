@@ -1,7 +1,9 @@
 <p align="center">
   <a href="README.md">
     <img src="https://img.shields.io/badge/🇺🇸-ENGLISH-0078D4?style=for-the-badge" alt="English"/>
+    
   </a>
+  
   <a href="README.pt-BR.md">
     <img src="https://img.shields.io/badge/🇧🇷-PORTUGUÊS-6DB33F?style=for-the-badge" alt="Português"/>
   </a>
