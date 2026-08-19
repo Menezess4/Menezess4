@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/badge/-🇺🇸_English-blue?style=for-the-badge"/>
   </a>
   <a href="README.pt-BR.md">
-    <img src="https://img.shields.io/badge/lang-Português-green?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-🇧🇷_Português-green?style=for-the-badge" />
   </a>
 </p>
 
