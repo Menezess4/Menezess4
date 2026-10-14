@@ -24,7 +24,7 @@ About Me
 
 <h2>Currently Learning</h2>
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,git,bash" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,git,bash,shell" />
 - Python
 - html
 - css
